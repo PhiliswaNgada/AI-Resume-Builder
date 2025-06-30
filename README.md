@@ -198,10 +198,6 @@ The system is designed to work entirely client-side with mock AI suggestions. Fo
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
 For questions or support, please open an issue in the repository or contact the development team.
